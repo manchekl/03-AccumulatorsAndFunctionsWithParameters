@@ -49,7 +49,8 @@ object2=rg.Polygon()
 #
 #          -- Write the names of three METHODs that Circle objects have:
 circle=rg.Circle()
-circle
+circle.outline_color
+circle.fill_color
 # clone, move center, fill color
 #          -- Write the names of three INSTANCE VARIABLEs that Circle
 #             objects have:
